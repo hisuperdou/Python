@@ -1,4 +1,4 @@
-# Python
+# 光看看廖雪峰就能会？会你MLGb
 ## 学习python中
 - 自由的美利坚混在了人群中高喊：deep dark fantastic
   - 不是van
